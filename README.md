@@ -1,1 +1,2 @@
-# hometask6 lsblk
+# hometask6
+lsblk
